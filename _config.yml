@@ -18,3 +18,4 @@ github_username:  stickystyle
 
 # Build settings
 markdown: kramdown
+exclude: [vendor]
